@@ -7,4 +7,6 @@ public class part {
     //rrerer
 
     //fff
+
+    //ddd
 }
